@@ -1,14 +1,13 @@
 # angular-node-express-sequelize-starter
-+angular 7.2.13
-+node 10.15.3
-+express
-+sequelize 4
-+typescript
-+mysql
++ angular 7.2.13
++ node 10.15.3
++ express
++ sequelize 4
++ typescript
++ mysql
 
 # start
 ```bash
-npm install 
 npm run serve (localhost:4200, angular) 
 npm run start (localhost:3000, node)
 ```
