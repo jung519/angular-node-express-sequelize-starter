@@ -6,13 +6,13 @@
 + typescript
 + mysql
 
-# start
+## start
 ```bash
 npm run serve (localhost:4200, angular) 
 npm run start (localhost:3000, node)
 ```
 
-# dir
+## dir
 ```bash
 ├──interface    ## front, back common use interface
 ├──server       ## back code (node)
